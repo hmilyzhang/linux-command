@@ -110,6 +110,8 @@
 [`jiangyang.online`](https://linux.jiangyang.online/)
 [`xiyung.cn`](https://xiyung.cn/linux-command/)
 [`78888889.xyz`](https://linux-command.78888889.xyz/)
+[**`kkcry.com`**](https://linux.kkcry.com/)
+
 
 **其它 web 版本**
 
